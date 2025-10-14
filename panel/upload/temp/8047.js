@@ -2,80 +2,76 @@
   "scale": "human",
   "events": [
     {
-      "start_date": {"year": "1946", "month": "12", "day": ""},
+      "start_date": { "year": "1302" },
       "text": {
-        "headline": "Çinhindi Savaşı’nın Başlangıcı",
-        "text": "2 Eylül 1945'te Hanoi'da, Viet Minh lideri Ho Chi Minh Vietnam Demokratik Cumhuriyeti'ni ilan etti. 1946'nın Aralık ayında Fransız Seferi Kuvvetleri ile Viet Minh arasında gerilla savaşı başladı."
+        "headline": "1302 - Koyunhisar Savaşı",
+        "text": "Osmanlılarla iki bin kişilik Bizans kuvveti arasında gerçekleşen Koyunhisar Savaşı’nı Osman Gazi kazanmıştır. Bir imparatorluk ordusuna karşı elde edilen bu ilk zafer, Osman Bey’i Türkmenlerin ve Bizanslıların saygı duyduğu karizmatik bir bey hâline getirmiştir."
       },
-      "media": {"url": "img/1.jpg"}
-    },
-
-    {
-      "start_date": {"year": "1954", "month": "7", "day": "21"},
-      "text": {
-        "headline": "Çinhindi Savaşı'nın Sonu",
-        "text": "Cenevre Konferansı, Fransa ve Viet Minh arasındaki savaşa son verdi. Vietnam ikiye bölündü: Kuzey Vietnam komünist kontrolüne girerken, Güney Vietnam milliyetçi bir yönetim altında kaldı."
-      },
-      "media": {"url": "img/2.jpg"}
+      "media": { "url": "../../../img/1.jpg" }
     },
     {
-      "start_date": {"year": "1961", "month": "4", "day": "17"},
-      "end_date": {"year": "1961", "month": "4", "day": "19"},
+      "start_date": { "year": "1326" },
       "text": {
-        "headline": "Domuzlar Körfezi Çıkarması",
-        "text": "ABD, Fidel Castro karşıtı Kübalı sürgünleri destekleyerek Domuzlar Körfezi'ne bir çıkarma düzenledi. Ancak operasyon başarısız oldu."
+        "headline": "1326 - Bursa'nın Fethi",
+        "text": "Osmanlı Devleti’nin ikinci padişahı Orhan Gazi tarafından fethedilen Bursa, Osmanlının ilk başkenti olmuştur. Orhan Gazi, babası Osman Gazi’nin vasiyetini yerine getirerek uzun süren bir kuşatma sonunda Bizans’ın elindeki şehri ele geçirmiştir. Bursa’nın alınmasıyla Osmanlı, ilk kez büyük bir yerleşim merkezini yönetmeye başlamış ve devletleşme sürecinde önemli bir aşama kaydetmiştir."
       },
-      "media": {"url": "img/3.jpg"}
+      "media": { "url": "../../../img/2.jpeg" }
     },
     {
-      "start_date": {"year": "1962", "month": "10", "day": "16"},
-      "end_date": {"year": "1962", "month": "10", "day": "28"},
+      "start_date": { "year": "1331" },
       "text": {
-        "headline": "Küba Buhranı",
-        "text": "Sovyetler Birliği'nin Küba'ya yerleştirdiği füzeler nedeniyle ABD ile SSCB arasında nükleer savaş riski yaşandı. Uzlaşmayla kriz sona erdi."
+        "headline": "1331 - İznik'in Fethi",
+        "text": "Osmanlı İmparatorluğu’nun ilk dönemlerinden itibaren İznik, fethedilmek istenen önemli bir merkez olmuştur. Osman Gazi zamanında bu kenti ele geçirmek amacıyla seferler düzenlense de İznik ancak Orhan Gazi döneminde fethedilmiştir. Böylece İznik, 234 yıl aradan sonra yeniden Türk idaresine girmiştir."
       },
-      "media": {"url": "img/4.png"}
+      "media": { "url": "../../../img/3.jpg" }
     },
     {
-      "start_date": {"year": "1965", "month": "3", "day": "2"},
+      "start_date": { "year": "1345" },
       "text": {
-        "headline": "ABD’nin Vietnam’a Askerî Saldırı Başlatması",
-        "text": "ABD, Kuzey Vietnam’ı sistematik bir şekilde bombalamaya başladı ve Güney Vietnam’a büyük ölçüde asker sevk etti. 1968'de Vietnam'daki ABD kuvvetlerinin sayısı 500.000'i aştı."
+        "headline": "1345 - Rumeli'ye Geçiş",
+        "text": "Orhan Gazi, halkın ileri gelenlerinin talebi doğrultusunda Karesi Beyliği topraklarını Osmanlı topraklarına katmıştır. Bu beyliğe ait donanmanın Osmanlı hizmetine girmesi hem Rumeli’ye geçişi hem de sonraki fetihleri önemli ölçüde kolaylaştırmıştır. Osmanlıların Rumeli’de elde ettiği ilk toprak parçası 1354 yılında Çimpe Kalesi’nin alınmasıyla gerçekleşmiştir."
       },
-      "media": {"url": "img/5.jpg"}
+      "media": { "url": "../../../img/4.jpg" }
     },
     {
-      "start_date": {"year": "1965", "month": "8", "day": "5"},
-      "end_date": {"year": "1965", "month": "9", "day": "23"},
+      "start_date": { "year": "1361" },
       "text": {
-        "headline": "Keşmir Sorunu",
-        "text": "Pakistan askerlerinin Keşmir’e girmesiyle savaş başladı. 23 Eylül’de BM Güvenlik Konseyi’nin ateşkes kararına uyuldu."
+        "headline": "1361 - Edirne'nin Fethi",
+        "text": "I. Murat tarafından fethedilen Edirne, İstanbul’un alınışına kadar Osmanlı Devleti’ne başkentlik yapmıştır. Fatih Sultan Mehmet, Edirne’de dünyaya gelmiştir. İstanbul’un fethine yönelik hazırlıklar ve planlar da Edirne Sarayı’nda yapılmıştır."
       },
-      "media": {"url": "img/6.jpg"}
+      "media": { "url": "../../../img/5.jpg" }
     },
     {
-      "start_date": {"year": "1973", "month": "1", "day": "27"},
+      "start_date": { "year": "1389" },
       "text": {
-        "headline": "Paris’te Vietnam Antlaşması’nın İmzalanması",
-        "text": "Vietnam için 1968'de başlayan barış görüşmeleri 27 Ocak 1973'te Paris’te sonuçlandı. ABD'nin Kuzey Vietnam'a saldırıları sona erdirildi."
+        "headline": "1389 - I. Kosova Savaşı",
+        "text": "I. Kosova Savaşı’nda Türkler ve Sırplar, farklı inançların temsilcileri olarak karşı karşıya gelmiştir. Sırp ve Dubrovnik kaynaklarına göre Balkanlar’daki Osmanlı ilerleyişini durdurmak isteyen Sırp Prensi Lazar Hrebeljanović, savaş sonunda hem hayatını hem de devletinin bağımsızlığını kaybetmiştir. Öte yandan Osmanlı padişahı I. Murad, savaşın ardından Sırp asilzadesi Miloš Obilić tarafından şehit edilmiştir."
       },
-      "media": {"url": "img/7.jpg"}
+      "media": { "url": "../../../img/6.png" }
     },
     {
-      "start_date": {"year": "1979", "month": "12", "day": "24"},
+      "start_date": { "year": "1402" },
       "text": {
-        "headline": "Sovyetler Birliği’nin Afganistan'ı İşgali",
-        "text": "SSCB, Afganistan'daki komünist rejimi desteklemek için ülkeyi işgal etti. Mücahitlerle 1988'e kadar sürecek bir savaş başladı."
+        "headline": "1402 - Ankara Savaşı",
+        "text": "Ankara’nın Çubuk Ovası’nda Yıldırım Bayezid ile Timur arasında gerçekleşen Ankara Savaşı, Türk tarihinde iki Müslüman devlet arasında yapılan en büyük çatışmalardan biridir. Osmanlıların bu savaşta aldığı yenilgi, Anadolu’da uzun mücadeleler sonucunda sağlanan Türk siyasi birliğinin dağılmasına yol açmıştır. Ayrıca Osmanlı Devleti’nin fetih hareketleri kesintiye uğramış ve İstanbul’un fethi yaklaşık yarım yüzyıl gecikmiştir."
       },
-      "media": {"url": "img/8.jpg"}
+      "media": { "url": "../../../img/7.jpg" }
     },
     {
-      "start_date": {"year": "1988", "month": "4", "day": "14"},
+      "start_date": { "year": "1444" },
       "text": {
-        "headline": "SSCB’nin Afganistan’dan Çekilmeye Başlaması",
-        "text": "SSCB, Cenevre Antlaşması kapsamında 15 Şubat 1989’a kadar Afganistan’dan çekilmeyi taahhüt etti."
+        "headline": "1444 - Varna Savaşı",
+        "text": "II. Murad ile Macar komutanı Hunyadi Yanoş arasında meydana gelen Varna Savaşı, Osmanlı-Hristiyan mücadelesinin önemli dönüm noktalarından biridir. Savaşın temel nedeni; Papalık ve Bizans’ın teşvik ettiği Macarların önderliğinde oluşturulan Hristiyan kuvvetlerinin Osmanlıları Balkanlar’dan atma ve Türk tehdidini ortadan kaldırma hedefidir. II. Murad, Varna Savaşı’nda elde ettiği zaferle Osmanlıların Avrupa’dan çıkarılamayacağını kesin biçimde kanıtlamıştır."
       },
-      "media": {"url": "img/9.jpg"}
+      "media": { "url": "../../../img/8.png" }
+    },
+    {
+      "start_date": { "year": "1448" },
+      "text": {
+        "headline": "1448 - II. Kosova Savaşı",
+        "text": "Osmanlı Devleti ile Eflâk, Boğdan, Macar ve Polonya Krallıklarının oluşturduğu Haçlı ordusu arasında gerçekleşen II. Kosova Savaşı; Osmanlıların Balkan hâkimiyetini kesinleştiren önemli bir askerî mücadeledir. Bu savaş sonucunda Osmanlıların Balkanlar’dan çıkarılamayacağı açıkça anlaşılmış, Avrupa devletleri Osmanlı karşısında savunmaya geçmiştir."
+      },
+      "media": { "url": "../../../img/9.png" }
     }
   ]
 }
