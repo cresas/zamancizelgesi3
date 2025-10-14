@@ -7,7 +7,7 @@
         "headline": "1302 - Koyunhisar Savaşı",
         "text": "Osmanlılarla iki bin kişilik Bizans kuvveti arasında gerçekleşen Koyunhisar Savaşı’nı Osman Gazi kazanmıştır. Bir imparatorluk ordusuna karşı elde edilen bu ilk zafer, Osman Bey’i Türkmenlerin ve Bizanslıların saygı duyduğu karizmatik bir bey hâline getirmiştir."
       },
-      "media": { "url": "../../../img/1.jpg" }
+      "media": { "url": "../../img/1.jpg" }
     },
     {
       "start_date": { "year": "1326" },
@@ -15,7 +15,7 @@
         "headline": "1326 - Bursa'nın Fethi",
         "text": "Osmanlı Devleti’nin ikinci padişahı Orhan Gazi tarafından fethedilen Bursa, Osmanlının ilk başkenti olmuştur. Orhan Gazi, babası Osman Gazi’nin vasiyetini yerine getirerek uzun süren bir kuşatma sonunda Bizans’ın elindeki şehri ele geçirmiştir. Bursa’nın alınmasıyla Osmanlı, ilk kez büyük bir yerleşim merkezini yönetmeye başlamış ve devletleşme sürecinde önemli bir aşama kaydetmiştir."
       },
-      "media": { "url": "../../../img/2.jpeg" }
+      "media": { "url": "../../img/2.jpeg" }
     },
     {
       "start_date": { "year": "1331" },
@@ -23,7 +23,7 @@
         "headline": "1331 - İznik'in Fethi",
         "text": "Osmanlı İmparatorluğu’nun ilk dönemlerinden itibaren İznik, fethedilmek istenen önemli bir merkez olmuştur. Osman Gazi zamanında bu kenti ele geçirmek amacıyla seferler düzenlense de İznik ancak Orhan Gazi döneminde fethedilmiştir. Böylece İznik, 234 yıl aradan sonra yeniden Türk idaresine girmiştir."
       },
-      "media": { "url": "../../../img/3.jpg" }
+      "media": { "url": "../../img/3.jpg" }
     },
     {
       "start_date": { "year": "1345" },
@@ -31,7 +31,7 @@
         "headline": "1345 - Rumeli'ye Geçiş",
         "text": "Orhan Gazi, halkın ileri gelenlerinin talebi doğrultusunda Karesi Beyliği topraklarını Osmanlı topraklarına katmıştır. Bu beyliğe ait donanmanın Osmanlı hizmetine girmesi hem Rumeli’ye geçişi hem de sonraki fetihleri önemli ölçüde kolaylaştırmıştır. Osmanlıların Rumeli’de elde ettiği ilk toprak parçası 1354 yılında Çimpe Kalesi’nin alınmasıyla gerçekleşmiştir."
       },
-      "media": { "url": "../../../img/4.jpg" }
+      "media": { "url": "../../img/4.jpg" }
     },
     {
       "start_date": { "year": "1361" },
@@ -39,7 +39,7 @@
         "headline": "1361 - Edirne'nin Fethi",
         "text": "I. Murat tarafından fethedilen Edirne, İstanbul’un alınışına kadar Osmanlı Devleti’ne başkentlik yapmıştır. Fatih Sultan Mehmet, Edirne’de dünyaya gelmiştir. İstanbul’un fethine yönelik hazırlıklar ve planlar da Edirne Sarayı’nda yapılmıştır."
       },
-      "media": { "url": "../../../img/5.jpg" }
+      "media": { "url": "../../img/5.jpg" }
     },
     {
       "start_date": { "year": "1389" },
@@ -47,7 +47,7 @@
         "headline": "1389 - I. Kosova Savaşı",
         "text": "I. Kosova Savaşı’nda Türkler ve Sırplar, farklı inançların temsilcileri olarak karşı karşıya gelmiştir. Sırp ve Dubrovnik kaynaklarına göre Balkanlar’daki Osmanlı ilerleyişini durdurmak isteyen Sırp Prensi Lazar Hrebeljanović, savaş sonunda hem hayatını hem de devletinin bağımsızlığını kaybetmiştir. Öte yandan Osmanlı padişahı I. Murad, savaşın ardından Sırp asilzadesi Miloš Obilić tarafından şehit edilmiştir."
       },
-      "media": { "url": "../../../img/6.png" }
+      "media": { "url": "../../img/6.png" }
     },
     {
       "start_date": { "year": "1402" },
@@ -55,7 +55,7 @@
         "headline": "1402 - Ankara Savaşı",
         "text": "Ankara’nın Çubuk Ovası’nda Yıldırım Bayezid ile Timur arasında gerçekleşen Ankara Savaşı, Türk tarihinde iki Müslüman devlet arasında yapılan en büyük çatışmalardan biridir. Osmanlıların bu savaşta aldığı yenilgi, Anadolu’da uzun mücadeleler sonucunda sağlanan Türk siyasi birliğinin dağılmasına yol açmıştır. Ayrıca Osmanlı Devleti’nin fetih hareketleri kesintiye uğramış ve İstanbul’un fethi yaklaşık yarım yüzyıl gecikmiştir."
       },
-      "media": { "url": "../../../img/7.jpg" }
+      "media": { "url": "../../img/7.jpg" }
     },
     {
       "start_date": { "year": "1444" },
@@ -63,7 +63,7 @@
         "headline": "1444 - Varna Savaşı",
         "text": "II. Murad ile Macar komutanı Hunyadi Yanoş arasında meydana gelen Varna Savaşı, Osmanlı-Hristiyan mücadelesinin önemli dönüm noktalarından biridir. Savaşın temel nedeni; Papalık ve Bizans’ın teşvik ettiği Macarların önderliğinde oluşturulan Hristiyan kuvvetlerinin Osmanlıları Balkanlar’dan atma ve Türk tehdidini ortadan kaldırma hedefidir. II. Murad, Varna Savaşı’nda elde ettiği zaferle Osmanlıların Avrupa’dan çıkarılamayacağını kesin biçimde kanıtlamıştır."
       },
-      "media": { "url": "../../../img/8.png" }
+      "media": { "url": "../../img/8.png" }
     },
     {
       "start_date": { "year": "1448" },
@@ -71,7 +71,7 @@
         "headline": "1448 - II. Kosova Savaşı",
         "text": "Osmanlı Devleti ile Eflâk, Boğdan, Macar ve Polonya Krallıklarının oluşturduğu Haçlı ordusu arasında gerçekleşen II. Kosova Savaşı; Osmanlıların Balkan hâkimiyetini kesinleştiren önemli bir askerî mücadeledir. Bu savaş sonucunda Osmanlıların Balkanlar’dan çıkarılamayacağı açıkça anlaşılmış, Avrupa devletleri Osmanlı karşısında savunmaya geçmiştir."
       },
-      "media": { "url": "../../../img/9.png" }
+      "media": { "url": "../../img/9.png" }
     }
   ]
 }
