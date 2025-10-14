@@ -54,8 +54,7 @@
       "text": {
         "headline": "1402 - Ankara Savaşı",
         "text": "Ankara’nın Çubuk Ovası’nda Yıldırım Bayezid ile Timur arasında gerçekleşen Ankara Savaşı, Türk tarihinde iki Müslüman devlet arasında yapılan en büyük çatışmalardan biridir. Osmanlıların bu savaşta aldığı yenilgi, Anadolu’da uzun mücadeleler sonucunda sağlanan Türk siyasi birliğinin dağılmasına yol açmıştır. Ayrıca Osmanlı Devleti’nin fetih hareketleri kesintiye uğramış ve İstanbul’un fethi yaklaşık yarım yüzyıl gecikmiştir."
-      },
-      "media": { "url": "img/7.jpg" }
+      }
     },
     {
       "start_date": { "year": "1444" },
