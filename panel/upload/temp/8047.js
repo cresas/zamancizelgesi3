@@ -21,7 +21,7 @@
       "start_date": { "year": "1331" },
       "text": {
         "headline": "1331 - İznik'in Fethi",
-        "text": "Osmanlı İmparatorluğu’nun ilk dönemlerinden itibaren İznik, fethedilmek istenen önemli bir merkez olmuştur. Osman Gazi zamanında bu kenti ele geçirmek amacıyla seferler düzenlense de İznik ancak Orhan Gazi döneminde fethedilmiştir. Böylece İznik, 234 yıl aradan sonra yeniden Türk idaresine girmiştir."
+        "text": "Osmanlı Devleti’nin ilk dönemlerinden itibaren İznik, fethedilmek istenen önemli bir merkez olmuştur. Osman Gazi zamanında bu kenti ele geçirmek amacıyla seferler düzenlense de İznik ancak Orhan Gazi döneminde fethedilmiştir. Böylece İznik, 234 yıl aradan sonra yeniden Türk idaresine girmiştir."
       },
       "media": { "url": "img/3.jpg" }
     },
@@ -45,7 +45,7 @@
       "start_date": { "year": "1389" },
       "text": {
         "headline": "1389 - I. Kosova Savaşı",
-        "text": "I. Kosova Savaşı’nda Türkler ve Sırplar, farklı inançların temsilcileri olarak karşı karşıya gelmiştir. Sırp ve Dubrovnik kaynaklarına göre Balkanlar’daki Osmanlı ilerleyişini durdurmak isteyen Sırp Prensi Lazar Hrebeljanović, savaş sonunda hem hayatını hem de devletinin bağımsızlığını kaybetmiştir. Öte yandan Osmanlı padişahı I. Murad, savaşın ardından Sırp asilzadesi Miloš Obilić tarafından şehit edilmiştir."
+        "text": "I. Kosova Savaşı’nda Türkler ve Sırplar, farklı inançların temsilcileri olarak karşı karşıya gelmiştir. Sırp ve Dubrovnik kaynaklarına göre Balkanlar’daki Osmanlı ilerleyişini durdurmak isteyen Sırp Prensi Lazar Hrebeljanović, savaş sonunda hem hayatını hem de devletinin bağımsızlığını kaybetmiştir. Öte yandan Osmanlı padişahı I. Murat, savaşın ardından Sırp asilzadesi Miloš Obilić tarafından şehit edilmiştir."
       },
       "media": { "url": "img/6.png" }
     },
@@ -54,13 +54,14 @@
       "text": {
         "headline": "1402 - Ankara Savaşı",
         "text": "Ankara’nın Çubuk Ovası’nda Yıldırım Bayezid ile Timur arasında gerçekleşen Ankara Savaşı, Türk tarihinde iki Müslüman devlet arasında yapılan en büyük çatışmalardan biridir. Osmanlıların bu savaşta aldığı yenilgi, Anadolu’da uzun mücadeleler sonucunda sağlanan Türk siyasi birliğinin dağılmasına yol açmıştır. Ayrıca Osmanlı Devleti’nin fetih hareketleri kesintiye uğramış ve İstanbul’un fethi yaklaşık yarım yüzyıl gecikmiştir."
-      }
+      },
+	   "media": { "url": "../../../img/7.png" }
     },
     {
       "start_date": { "year": "1444" },
       "text": {
         "headline": "1444 - Varna Savaşı",
-        "text": "II. Murad ile Macar komutanı Hunyadi Yanoş arasında meydana gelen Varna Savaşı, Osmanlı-Hristiyan mücadelesinin önemli dönüm noktalarından biridir. Savaşın temel nedeni; Papalık ve Bizans’ın teşvik ettiği Macarların önderliğinde oluşturulan Hristiyan kuvvetlerinin Osmanlıları Balkanlar’dan atma ve Türk tehdidini ortadan kaldırma hedefidir. II. Murad, Varna Savaşı’nda elde ettiği zaferle Osmanlıların Avrupa’dan çıkarılamayacağını kesin biçimde kanıtlamıştır."
+        "text": "II. Murat ile Macar komutanı Hunyadi Yanoş arasında meydana gelen Varna Savaşı, Osmanlı-Hristiyan mücadelesinin önemli dönüm noktalarından biridir. Savaşın temel nedeni; Papalık ve Bizans’ın teşvik ettiği Macarların önderliğinde oluşturulan Hristiyan kuvvetlerinin Osmanlıları Balkanlar’dan atma ve Türk tehdidini ortadan kaldırma hedefidir. II. Murat, Varna Savaşı’nda elde ettiği zaferle Osmanlıların Avrupa’dan çıkarılamayacağını kesin biçimde kanıtlamıştır."
       },
       "media": { "url": "img/8.png" }
     },
@@ -70,7 +71,7 @@
         "headline": "1448 - II. Kosova Savaşı",
         "text": "Osmanlı Devleti ile Eflâk, Boğdan, Macar ve Polonya Krallıklarının oluşturduğu Haçlı ordusu arasında gerçekleşen II. Kosova Savaşı; Osmanlıların Balkan hâkimiyetini kesinleştiren önemli bir askerî mücadeledir. Bu savaş sonucunda Osmanlıların Balkanlar’dan çıkarılamayacağı açıkça anlaşılmış, Avrupa devletleri Osmanlı karşısında savunmaya geçmiştir."
       },
-      "media": { "url": "img/9.png" }
+      "media": { "url": "img/9.jpg" }
     }
   ]
 }
